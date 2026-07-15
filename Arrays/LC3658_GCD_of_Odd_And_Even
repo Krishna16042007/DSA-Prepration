@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int gcdOfOddEvenSums(int n) {
+        int sum1=0;
+        int sum2=0;
+        for(int i=0;i<n;i++){
+            sum1+=2*n+2;
+            sum2+=2*n+1;
+
+        }
+        return gcd(sum1,sum2);
+    }
+};
