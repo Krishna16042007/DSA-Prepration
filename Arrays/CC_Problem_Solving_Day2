@@ -1,0 +1,66 @@
+//Favourite Numbers
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t;
+    cin>>t;
+    while(t--){
+        int a;
+        cin>>a;
+        // your code goes here
+        if(a%2==0 && a%7==0){
+            cout<<"Alice"<<endl;
+        }
+        else if(a%2!=0 && a%9==0){
+            cout<<"Bob"<<endl;
+        }
+        else {
+            cout<<"Charlie"<<endl;
+        }
+    }
+
+}
+
+
+//sum of digits
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t;
+	cin>>t;
+	while(t--){
+	    int sum=0;
+	    int n;
+	    cin>>n;
+	    while(n){
+	        int rem=n%10;
+	        sum+=rem;
+	        n=n/10;
+	    }
+	    cout<<sum<<endl;
+	    
+	}
+
+}
+
+
+//candy  store
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int x,y;
+        cin>>x>>y;
+        // your code goes here
+        cout<<y+max(0,y-x)<<endl;
+    }
+	
+
+}
