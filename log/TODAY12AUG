@@ -1,0 +1,26 @@
+# DSA Error Log — 12 August 2026
+
+Today I focused on understanding how to identify the correct
+Map/HashMap pattern instead of blindly writing code.
+
+
+## My Confusion
+I knew that HashMap is used, but I was confused about
+what exactly the map should store.
+
+## Correct Pattern
+
+number → frequency
+number → index
+number → seen
+character → frequency
+prefix sum → frequency
+
+##lesson
+
+onersvaion using
+LC 1
+LC 242
+LC 219
+LC 205
+LC 110
