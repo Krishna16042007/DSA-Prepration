@@ -1,0 +1,21 @@
+
+
+Weakness: Mapping Recognition
+
+Problem:
+I sometimes know that hashing is required but don't know
+what exactly to store.
+
+Practice:
+LC217
+LC242
+LC1
+
+Patterns learned:
+number → seen
+character → frequency
+number → index
+
+Main lesson:
+First identify the information I need to remember,
+then choose the map/set.
