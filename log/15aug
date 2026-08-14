@@ -1,0 +1,23 @@
+
+Roadmap:
+Two Pointers
+
+Problems:
+LC15 - 3Sum
+LC11 - Container With Most Water
+
+Mistake:
+in lc15 i am not fixing my one var i think i can make changes together but by this formet i am not able to get all the combinations
+
+Why I made it:
+because i dont solve more questions of these format not now i am clear about that point
+
+Correct pattern:
+makeing a seprate loop for fy fixxing variable
+
+Time Complexity:
+both the code with O(n)
+
+Space Complexity:
+same for oth O(1)
+
