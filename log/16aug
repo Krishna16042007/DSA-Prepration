@@ -1,0 +1,33 @@
+Day 17
+
+DSA:
+Sliding Window
+
+Problems:
+LC209
+LC1004
+
+Weakness:
+Prefix Sum + Hash Map
+
+Problem:
+LC560
+
+Tree:
+LC102
+
+Mistake:
+in siding window my concepts are not clear yet so i facing some prb like i know the think what i have to do but i dont how can i do this 
+in weekness part today i am not able to solve the question because of my lck of concontaration
+
+Why I got stuck:
+because some concepts are not cleare 
+
+Key → Value:
+num->freq
+
+Time Complexity:
+0(n)
+
+Space Complexity:
+0(1)
