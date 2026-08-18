@@ -1,0 +1,26 @@
+DAY 18
+
+DSA:
+LC567
+LC438
+
+Did I identify the pattern?
+YES 
+
+Where did I get stuck?
+in 567 i just making a very common error that i just ignored the string s1 charchter ndexing 
+in 438 my solution is not ooptimized one but i understand the logic of sliding window
+
+Weakness:
+not we cant say them weekness but we lacking like how to show them or which is good for them or not i just use anything without thinking that effect my complexity
+
+Problem:
+LC217
+that one is the esiest one contain duplicate 
+
+Key → Value:
+num->seen
+
+Trees:
+LC102
+it also a good question in the perspective of the using queue  but here we introduce with the basics of the queue that goning tooo be help in the upcoming ....prb
