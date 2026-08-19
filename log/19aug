@@ -1,0 +1,20 @@
+DAY 19
+
+DSA:
+LC424
+
+My pattern:
+hashing+sliding window
+
+Did I solve independently?
+( HINT )
+
+Where I got stuck:
+not updating the maxlen
+
+Which Key → Value was difficult?
+this f***ing character changing concept
+
+Trees:
+LC199
+a good but basic question
